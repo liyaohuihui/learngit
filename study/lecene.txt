@@ -1,12 +1,3 @@
-sdfasdfasdfasdfds
+sdfasdfasdfasdf
 
-<<<<<<< HEAD
-asdf333333333333333asdfasdfsadf  master 新增部分
-=======
-asdf333333333333333asdfasdfsadfasdfsadfasdfasdfks
-asdfjakdsl
-
-
-asdf;ljasdlfjaksdjfkdsjk
->>>>>>> dec
 ddddddddddddddddddddddddddddddd
