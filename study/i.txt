@@ -3,3 +3,5 @@ Git is free software.
 
 
 的顶顶顶顶顶顶顶顶顶顶
+
+Git has a mutable index called stage.
