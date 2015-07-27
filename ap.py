@@ -3,8 +3,5 @@ hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 yyyyyyyyyyyyyyyyyyyyyyyyyyyy
 
-dddddddddddddddddddddddddd
 
-shsssssssssssssssssssssssssss
-
-ddddddddddddddddddddddd
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
